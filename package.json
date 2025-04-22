@@ -1,0 +1,13 @@
+{
+  "name": "cnbx2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
